@@ -15,7 +15,7 @@
 | 회차 | 날짜  | 제목                                                       | 발표자 |  발표자료      |
 |------| ----- |:----------------------------------------------------------:| ------:|:-------------: |
 |  1   |  9/19 | 0. 도커 레지스트리 소개                                    | 김무성 | [관련자료](http://gyus.me/?p=546)  |
-|      |      | 0.1 엘라스틱서치 셋팅 & 실행                                             | 김무성 |   |
+|      |      | 0.1 엘라스틱서치 셋팅 & 실행                                             | 김무성 | [관련자료1](https://github.com/n42corp/elasticsearch), [관련자료2](https://github.com/n42corp/dockerfiles/tree/master/korean-morpheme-sinatra), [관련자료3](http://blog.nacyot.com/articles/2015-06-13-eunjeon-with-elasticsearch/)  |
 |      |      | 0.2 엘라스틱서치 휘리릭                                     | 김무성 |   |
 |  2   |      | ch1. Introducing Elasticsearch                              | 오창민 |   |
 |      |      | ch2. Diving into the functionality                          | 오창민 |   |
