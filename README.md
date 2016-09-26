@@ -19,11 +19,11 @@
 |      |      | 0.2 엘라스틱서치 휘리릭                                     | 김무성 | [관련자료](http://www.slideshare.net/seunghyuneom/elastic-search-52724188)  |
 |  2   | 9/26 | ch1. Introducing Elasticsearch                              | 유주원 |   |
 |      |      | ch2. Diving into the functionality                          | 유주원 |   |
-|      |      | ch9. Improving performance                                  | 오창민 |   |
+|      |      | ch9. Scaling out                                  | 오창민 |   |
 |  3   |      | ch3. Indexing, updating, and deleting data                  | 안동환 |   |
-|      |      | ch10. Administering your cluster                            |       |   |
+|      |      | ch10. Improving performance                            |       |   |
 |  4   |      | ch4. Searching your data                                    | 김무성  |   |
-|      |      | ch8. Scaling out                                            |        |   |
+|      |      | ch11. Administering your cluster                                            |        |   |
 |  5   |      | ch5. Analyzing your data                                    |        |   |
 |  6   |      | ch6. Searching with relevancy                               |        |   |
 |  7   |      | ch7. Exploring your data with aggregations                  |        |   |
